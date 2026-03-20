@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - Stream
+  - Vegetable
+  - sliceParent
+  - Blendable
   layers:
   - Default
   - TransparentFX
@@ -12,35 +16,38 @@ TagManager:
   - 
   - Water
   - UI
+  - Fillable
+  - Environment
+  - 
+  - Knife
+  - Sliceable
+  - Knife Trigger
+  - Salt Barrier
+  - Salt Weight
+  - Pepper Barrier
+  - Pepper Weight
+  - Paprika Barrier
+  - Paprika Weight
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Garlic Barrier
+  - Garlic Weight
+  - Washable
+  - Dynamic Container
+  - Static Container
+  - Dynamic Object
+  - Static Object
+  - Container Dynamic Object
+  - Dynamic Container Trigger
+  - Static Container Trigger
+  - Stirring Spoon
+  - Spikes
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Progress Bars
+    uniqueID: 2518202823
     locked: 0
   m_RenderingLayers:
   - Default
